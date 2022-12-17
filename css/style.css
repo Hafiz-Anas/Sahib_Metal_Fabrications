@@ -116,7 +116,10 @@
 .navbar-dark .navbar-nav .nav-link.active {
     color: var(--primary);
 }
-
+.service-item img {
+    width: 100%;
+    max-height: 400px;
+}
 @media (max-width: 991.98px) {
     .navbar-dark .navbar-nav .nav-link  {
         margin-left: 0;
