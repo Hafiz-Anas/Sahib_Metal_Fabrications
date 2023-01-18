@@ -1587,7 +1587,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 .banner-main {
      position: relative;
-     background-color: #136af8;
+     background-color: #f2ab4d;
      background-size: 100% 100%;
 
 }
@@ -1639,7 +1639,7 @@ input[type="radio"] .styled:checked+label::after {
      padding: 0px 0px 0px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #136af8;
+     color: #f2ab4d;
      line-height: 50px;
      position: relative;
      margin-bottom: 20px;
@@ -1655,7 +1655,7 @@ font-weight: normal;
 .clothes_main{
      width: 100%;
      float: left;
-     background-color: #081b30;
+     background-color: #111921;
      height: auto;
      padding: 60px 0px;
 
@@ -2177,7 +2177,7 @@ padding: 10px 0px 0px 0px;
 
      text-align: center;
 font-size: 29px;
-color: #136af8;
+color: #f2ab4d;
 padding-top: 25px;
 line-height: 25px;
 font-weight:normal;
@@ -2394,7 +2394,7 @@ line-height: 30px;
 .Address {
     width: 100%;
     float: left;
-    background-color: #081b30;
+    background-color: #111921;
     height: auto;
     padding: 83px 0 0 0;
 }
@@ -2465,7 +2465,7 @@ line-height: 30px;
 .footer{
      width: 100%;
      float: left;
-     background-color: #136af8;
+     background-color: #f2ab4d;
      height: auto;
      padding: 0px;
 }
@@ -2502,7 +2502,7 @@ border-radius: 10px;
 .header_main{
      width: 100%;
      float: left;
-     background-color: #136af8;
+     background-color: #f2ab4d;
      padding-top: 20px;
 }
 
@@ -2564,7 +2564,7 @@ button.btn.btn-primary,button.btn.btn-primary:hover,button.btn.btn-primary:focus
 
 
 .product {padding-top: 90px;}
-.product .titlepage h2 {color: #136af8;}
+.product .titlepage h2 {color: #f2ab4d;}
 .black {color: #000;}
 .section_Clients .titlepage h2{
    padding: 0px 0px 0px 0px;
@@ -2622,4 +2622,19 @@ text-align: center;
 }
 .main-menu a {
      padding-bottom: 0 !important;
+}
+.custom-see {
+     font-size: 23px;
+     text-align: center;
+     color: white;
+     margin: 20px 0;
+     margin-top: 20px;
+}
+.custom-see-div {
+     width:100%;
+     display: flex;
+     justify-content: center;
+}
+.custom-see {
+     color: white !important;
 }
