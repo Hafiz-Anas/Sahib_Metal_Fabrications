@@ -292,14 +292,6 @@
     border-radius: 10px;
 }
 
-.loader {
-    height: 100vh;
-    width: 100%;
-    background-color: white;
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.custom-img {
+    width: 100% !important;
 }
