@@ -284,3 +284,6 @@
     background: var(--primary);
     transform: skew(40deg);
 }
+.logo {
+    width: 80px;
+}
