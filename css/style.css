@@ -286,4 +286,7 @@
 }
 .logo {
     width: 80px;
+    background-color: white;
+    margin-right: 15px;
+    border-radius: 10px;
 }
