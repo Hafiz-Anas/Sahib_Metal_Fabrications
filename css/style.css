@@ -189,7 +189,7 @@
 }
 
 .portfolio-item {
-    max-height: 520px;
+    max-height: 520px !important;
     margin-bottom: 60px;
 }
 
